@@ -1,6 +1,9 @@
 # EDGE
 This is the official implementation of **Post-Training Embedding Enhancement for Long-Tail Recommendation**, (Under Submission to CIKM 2024 Short Paper Track).
 
+## Supplementary Document
+The [supplementary document](supplementary.pdf) provides additional details and experimental results to support the main paper.
+
 ## Datasets
 We use three datasets, **gowalla**, **yelp2018**, and **ml10m**.
 Each dataset is split into train/validation/test sets under two test settings, **unbiased (fair)** and **biased (bias)** settings.
