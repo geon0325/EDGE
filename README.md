@@ -1,5 +1,5 @@
 # EDGE
-This is the official implementation of **Post-Training Embedding Enhancement for Long-Tail Recommendation**, (Under Submission to CIKM 2024 Short Paper Track).
+This is the official implementation of **Post-Training Embedding Enhancement for Long-Tail Recommendation** (CIKM 2024 Short Paper).
 
 ## Supplementary Document
 The [supplementary document](supplementary.pdf) provides additional details and experimental results to support the main paper.
